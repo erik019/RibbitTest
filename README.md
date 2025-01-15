@@ -27,21 +27,21 @@ Este proyecto es una API construida con .NET 8, utilizando Entity Framework Core
 
 1. Abre una terminal en el directorio raíz del proyecto y crea la migración inicial con el siguiente comando:
 
-`dotnet ef migrations add InitialCreate`
+    `dotnet ef migrations add InitialCreate`
 
 2. Aplica la migración a la base de datos con el siguiente comando:
 
-`dotnet ef database update`
+    `dotnet ef database update`
 
 ### Ejecución del Proyecto
 
 1. Abre una terminal en el directorio raíz del proyecto y ejecuta el siguiente comando para restaurar las dependencias de NuGet:
 
-`dotnet restore`
+    `dotnet restore`
 
 2. Luego de restaurar las dependencias, ejecuta el proyecto con el siguiente comando:
 
-`dotnet run`
+    `dotnet run`
 
 ## Consumo del API
 
