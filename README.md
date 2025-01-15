@@ -33,6 +33,22 @@ Aplica la migración a la base de datos con el siguiente comando:
 
 `dotnet ef database update`
 
+### Ejecución del Proyecto
+
+Para ejecutar la API localmente, sigue estos pasos:
+
+Restaurar las dependencias:
+
+Abre una terminal en el directorio raíz del proyecto y ejecuta el siguiente comando para restaurar las dependencias de NuGet:
+
+`dotnet restore`
+
+Ejecutar el proyecto:
+
+Luego de restaurar las dependencias, ejecuta el proyecto con el siguiente comando:
+
+`dotnet run`
+
 ## Consumo del API
 
 1. **Obtener productos**
