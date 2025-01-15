@@ -6,7 +6,6 @@ Este proyecto es una API construida con .NET 8, utilizando Entity Framework Core
 
 - .NET 8
 - Herramienta de línea de comandos `dotnet`
-- SQLite (base de datos)
 
 ## Configuración del Proyecto
 
