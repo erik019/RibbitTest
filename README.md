@@ -12,7 +12,7 @@ Este proyecto es una API construida con .NET 8, utilizando Entity Framework Core
 
 ### Configuración de SQLite
 
-1. Asegúrate de tener SQLite configurado en tu proyecto. La cadena de conexión se encuentra en el archivo `appsettings.json`. Por defecto, la base de datos se almacenará en un archivo llamado `RibbitTest.db` en el directorio raíz del proyecto.
+1. La cadena de conexión se encuentra en el archivo `appsettings.json`. Por defecto, la base de datos se almacenará en un archivo llamado `RibbitTest.db` en el directorio raíz del proyecto.
 
    **appsettings.json**:
    ```json
